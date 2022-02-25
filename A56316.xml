@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Abstract of certain depositions, by vertue of His Majesties commission, taken upon oath, concerning the traiterous intention of the rebels in Ireland in rejecting the government of His Majesty, in having a king of their own, and who that king should be with an extract of a letter from Rome, 4 Jan. 1642.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56316</idno>
+            <idno type="STC">Wing P4252</idno>
+            <idno type="STC">ESTC R38017</idno>
+            <idno type="EEBO-CITATION">17161896</idno>
+            <idno type="OCLC">ocm 17161896</idno>
+            <idno type="VID">106045</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56316)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106045)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1099:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Abstract of certain depositions, by vertue of His Majesties commission, taken upon oath, concerning the traiterous intention of the rebels in Ireland in rejecting the government of His Majesty, in having a king of their own, and who that king should be with an extract of a letter from Rome, 4 Jan. 1642.</title>
+                  <author>O'Connor, Bonaventura.</author>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Barker ... and by the assignes of John Bill,</publisher>
+                  <pubPlace>York :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"An extract of a letter written 4. January. 1641" (p. 7-9) is by Bonaventure O Connye.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106045:1"/>
+            <!-- PDF PAGE 115 -->
+            <pb facs="tcp:106045:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 115 -->
+            <p>AN ABSTRACT OF Certain Depoſitions, By vertue of His MAJESTIES Commiſſion, taken upon Oath, Concerning the Traiterous intention of the Rebels in <hi>Ireland,</hi> in rejecting the Government of His Majeſty, in having a King of their own: And who that King ſhould be.</p>
+            <p>With an Extract of a Letter from <hi>Rome,</hi> 4. Jan. 1642.</p>
+            <p>YORK: Printed by ROBERT BARKER, Printer to the Kings moſt Excellent Majeſtie: And by the Aſſignes of JOHN BILL. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:106045:2"/>
+            <!-- PDF PAGE 116 -->
+            <pb n="1" facs="tcp:106045:2"/>
+            <!-- PDF PAGE 116 -->
+            <head>An Abſtract of the Depoſitions, by vertue of His Majeſties Commiſsion, taken upon Oath, Concerning the traiterous in<g ref="char:EOLhyphen"/>tention of the Rebels, in reject<g ref="char:EOLhyphen"/>ing the Government of His Majeſtie, in having a King of their own: And who this King ſhould be.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">G</seg>Eorge Cook</hi> of <hi>Liſſignie,</hi>
+               <note place="margin">Cavan. 71 Jan. 22. 1641.</note> 
+               <hi>in<g ref="char:EOLhyphen"/>ter caerera,</hi> depoſeth, that one <hi>Tirlagh O Gowne, <hi>alias</hi> Smith,</hi> a Popiſh Prieſt, ſaid, That the Papiſts would have their Chur<g ref="char:EOLhyphen"/>ches, Lands, and Kingdom to themſelves from the Engliſh, and be no more ſlaves to the Engliſh, as
+<pb n="2" facs="tcp:106045:3"/>
+               <!-- PDF PAGE 117 -->they had been, or elſe they would loſe their lives.</p>
+            <p>
+               <hi>Richard Colley,</hi>
+               <note place="margin">Ferma<g ref="char:EOLhyphen"/>nagh 90. Febr. 2. 1641.</note> of the Pariſh of <hi>Kinnallie, inter caet.</hi> depoſeth, that <hi>Bryan O Cormacke</hi> of <hi>Driſternan,</hi> and other Rebels, ſaid, They would ne<g ref="char:EOLhyphen"/>ver ſubmit to any Engliſh man.</p>
+            <p>
+               <hi>Thomas Magill,</hi>
+               <note place="margin">Lowth 4. Febr. 21. 1641.</note> Clerk, <hi>inter caet.</hi> de<g ref="char:EOLhyphen"/>poſeth, that <hi>Collogh, Mac Brian, Mac Mahowne,</hi> and ſeverall other Rebels, ſaid, That they would not be ſub<g ref="char:EOLhyphen"/>ject to any Parliaments in <hi>England,</hi> and that they would have none to Govern over them, but a born I<g ref="char:EOLhyphen"/>riſh man.</p>
+            <p>
+               <hi>Matthew Browne</hi> of <hi>Cloniſſe,</hi>
+               <note place="margin">Monag<g ref="char:EOLhyphen"/>han 36. March 24 1641.</note> Gent. <hi>inter caet.</hi> depoſeth, that he heard <hi>Pe<g ref="char:EOLhyphen"/>ter Bath</hi> ſay, That they looked to have the King to put out the words <hi>Defender of the Faith,</hi> for none was ſupream of the Church, and Defen<g ref="char:EOLhyphen"/>der of the Faith, but the Pope.</p>
+            <p>
+               <hi>Richard Whitton</hi> of <hi>Kilvane,</hi>
+               <note place="margin">VVickloe 8. Jan. 11. 1641.</note> 
+               <hi>inter caet.</hi> depoſeth, that <hi>Luke Birne</hi> of <hi>Kilvane</hi> ſaid, He would have their Religion
+<pb n="3" facs="tcp:106045:3"/>
+               <!-- PDF PAGE 117 -->flouriſh, no thanks to the King.</p>
+            <p>
+               <hi>Edward Deaſelye, inter caet.</hi> depoſeth,<note place="margin">VVickloe 39. Feb. 5. 1641.</note> That <hi>Luke Toole</hi> and <hi>Luke Birne</hi> offer<g ref="char:EOLhyphen"/>ed a Paſſe to this Examinant, which they ſaid, would be better then the Kings Paſſe.</p>
+            <p>
+               <hi>Thomas Taylor</hi> of <hi>Kilmore, inter caet.</hi>
+               <note place="margin">Cavan. 47 Jan. 12. 1641.</note> depoſeth, that he heard <hi>Mulmore O Kely</hi> ſay, That if the ſaid Deponent would deny the King he ſhould ſpeed as they did.</p>
+            <p>
+               <hi>William Wright</hi> of <hi>Culmonyn, inter caet.</hi>
+               <note place="margin">Queenes 31. April 12. 1642.</note> depoſeth, that <hi>Iohn Good</hi> of <hi>Clonay-ſawne,</hi> and <hi>Dermot Mac Phelmi</hi> ſaid, That they hoped to have all Prote<g ref="char:EOLhyphen"/>ſtants hanged within one fortnight, and he that did protect them to.</p>
+            <p>
+               <hi>Richard Knowles</hi> of <hi>Newtowne, inter caet.</hi>
+               <note place="margin">Ferma<g ref="char:EOLhyphen"/>nagh 60. 10. Jan. 1641.</note> depoſeth, that <hi>Rory Magwire, Ri<g ref="char:EOLhyphen"/>chard Nugent, Donogh Magwire,</hi> by whoſe means he was robbed, ſome of the ſaid Robbers ſaid, That they had a King of their own in <hi>Ireland.</hi>
+            </p>
+            <p>
+               <hi>Nicholas Michaell</hi> of <hi>Farnam,</hi>
+               <note place="margin">Cavan. 57 15. Jan.</note> 
+               <hi>inter caet.</hi> depoſeth, that he heard the par<g ref="char:EOLhyphen"/>ties
+<pb n="4" facs="tcp:106045:4"/>
+               <!-- PDF PAGE 118 -->that robbed him ſay, They had an Iriſh King amongſt them, and they regarded not King <hi>Charles,</hi> the King of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>Robert Barton</hi> of <hi>Newtowne,</hi>
+               <note place="margin">Ferma<g ref="char:EOLhyphen"/>nagh 41. 5. Jan.</note> 
+               <hi>inter caet.</hi> depoſeth, that ſome of the Re<g ref="char:EOLhyphen"/>bels ſaid, They had a new King, and had Commiſſion from him for what they did.</p>
+            <p>
+               <hi>Thomas Middlebrooke,</hi>
+               <note place="margin">Ferma<g ref="char:EOLhyphen"/>nagh 18. 4. Jan.</note> 
+               <hi>inter caet.</hi> de<g ref="char:EOLhyphen"/>poſeth, that about the <hi>26.</hi> of Octo<g ref="char:EOLhyphen"/>ber laſt paſt, he heard one <hi>Cahell Boy Mac-Demot</hi> of <hi>Killrout</hi> ſay, That within one fortnight they ſhould have a new King of <hi>Ireland</hi> crown<g ref="char:EOLhyphen"/>ed, one of the <hi>O Neales,</hi> or words to that effect.</p>
+            <p>
+               <hi>Avis Braſhaw,</hi>
+               <note place="margin">Ferma<g ref="char:EOLhyphen"/>nagh 19. 4. Jan.</note> 
+               <hi>inter caet.</hi> depoſeth, That ſhe heard the aboveſaid <hi>Cahall Boy</hi> ſay the ſame, or words to that effect.</p>
+            <p>
+               <hi>Alice Tibbs,</hi>
+               <note place="margin">Ferma<g ref="char:EOLhyphen"/>nagh 20. 4. Ian.</note> 
+               <hi>inter caet.</hi> deſpoſeth, That ſhe heard the aboveſaid <hi>Cahall Boy</hi> ſay the ſame, or words to that effect.</p>
+            <pb n="5" facs="tcp:106045:4"/>
+            <!-- PDF PAGE 118 -->
+            <p>
+               <hi>Alice Champin,</hi>
+               <note place="margin">Ferma<g ref="char:EOLhyphen"/>nagh 27. 14. April.</note> the relict of <hi>Arthur Champin, inter caet.</hi> depoſeth, that ſhe heard the Rebellious Iriſh ſay, That Sir <hi>Phellomy Roe</hi> of <hi>Neale</hi> ſhould be King of <hi>Ireland,</hi> and that they would give a great ſum of Mo<g ref="char:EOLhyphen"/>ney, on condition they had our gra<g ref="char:EOLhyphen"/>cious King <hi>Charles</hi> his head.</p>
+            <p>
+               <hi>Elizabeth Gough, inter caet.</hi> depoſeth,<note place="margin">Cavan. 85 8. Feb.</note> that <hi>Cahir O Kelay,</hi> and <hi>Thomas Mac-Encorr</hi> ſaid, They purpoſed to have a King of their own, and that Sir <hi>Phelmi O Neale</hi> ſhould be he.</p>
+            <p>
+               <hi>John Gregg</hi> of <hi>Clovenedan, inter caet.</hi>
+               <note place="margin">Ardmagh 3. 7. Ian. 1641.</note> depoſeth, that Captain <hi>Shane O Neale,</hi> ſtiled, Sir <hi>Phelmi O Neale</hi> His Ma<g ref="char:EOLhyphen"/>jeſtie.</p>
+            <p>
+               <hi>Martha Culme, inter caet.</hi> depoſeth,<note place="margin">Monag<g ref="char:EOLhyphen"/>han 21. 14. Febr.</note> that one <hi>Art. Mac Patrick, Mac Toole Boy, Mac Mahowne,</hi> ſpeaking to her in I<g ref="char:EOLhyphen"/>riſh, ſhe deſired him to deliver him<g ref="char:EOLhyphen"/>ſelf in Engliſh, for ſhe underſtood not Iriſh: Who anſwered her in Eng<g ref="char:EOLhyphen"/>liſh, That ſuch as ſpoke in Engliſh, ſhould pay ten ſhillings to the King:
+<pb n="6" facs="tcp:106045:5"/>
+               <!-- PDF PAGE 119 -->And the Deponent demanding of him, What King? He anſwered, What King but the Earl of <hi>Tyrone.</hi>
+            </p>
+            <p>
+               <hi>Hugh Culme inter caet.</hi>
+               <note place="margin">Monag. han. 16. 25. Ian.</note> depoſeth, that he was credibly told that <hi>Art. Mac Mahowne</hi> ſaid, That they that ſpoke Engliſh ſhould pay ten ſhil<g ref="char:EOLhyphen"/>lings to the King: The party to whom it was ſpoken, deſiring to know what King, his anſwer was, What King but the Earle of <hi>Tyrone.</hi>
+            </p>
+            <p>
+               <hi>Anne Gill inter caet.</hi>
+               <note place="margin">Ferma<g ref="char:EOLhyphen"/>nagh 69. 29. Ian.</note> depoſeth, that <hi>Rory Magwire</hi> in the preſence of this Deponent, and a great many of her Neighbours, gave forth, That it was to no purpoſe for them to flie to <hi>Dublin</hi> for ſuccour, for <hi>Dublin</hi> was taken by the Lord <hi>Magwire,</hi> who was to be King of <hi>Ireland.</hi>
+            </p>
+            <closer>
+               <signed>Roger Puttock, John Sterne, Jo. Wat<g ref="char:EOLhyphen"/>ſon, Wil. Aldrich, Henry Brereton, William Hitchcock, Randall Adams.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:106045:5"/>
+            <!-- PDF PAGE 119 -->
+            <head>An Extract of a Letter written 4. Janu. 1641.</head>
+            <head type="sub">From <hi>Iſidores</hi> Colledge in <hi>Rome,</hi> by <hi>Bonaventure O Connye,</hi> to <hi>Feylmi Roe O Neill</hi> in <hi>Ireland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He holy Father and his two Nephews, Cardinal <hi>Antho<g ref="char:EOLhyphen"/>ny Barbarinus</hi> Protector of <hi>Ireland,</hi> and Cardinal <hi>Fran<g ref="char:EOLhyphen"/>cis Barbarinus,</hi> who hath all the power here in ſuch matters as concern the Pope, have heard of the Warre and Confederation which you make for your Religion and Libertie: And truly I cannot expreſſe the greatneſſe of the Joy (no wonder) which they con<g ref="char:EOLhyphen"/>ceive
+<pb n="8" facs="tcp:106045:6"/>
+               <!-- PDF PAGE 120 -->thence in ſuch manner, That if they had received Letters, or if you had ſent an Agent unto them to expreſſe your Will or Deſignes, you ſhould want no help for your better proceedings. Wherefore I would have you to ſend ſome able man, with a Declaration of your Grievances in form of Law.</p>
+            <p>Be ſure to have a great heart, and make ſome chief head among you, but reſerve the Crown for <hi>Con</hi> his ſide the <hi>Neills.</hi> Re<g ref="char:EOLhyphen"/>member the old ſlavery wherein you have lived of long time, and the deſtruction which will generally come upon you, ex<g ref="char:EOLhyphen"/>cept you get the upper hand: You will prevail, if you joyn together as you ought, God ſend it. I would advize every chief Officer among you to have a Secretary along with him to write a Diurnall of your paſſages; and overthrows, which your Ene<g ref="char:EOLhyphen"/>mies receive; which will redound much to your Glory. Spoil not the countrey for fear of Famine. I will not faile to write according as I ſhall hear from you. We
+<pb n="9" facs="tcp:106045:6"/>
+               <!-- PDF PAGE 120 -->would ſend unto you a Bull, after the form of the Bull which <hi>Hugh Mac-Baron</hi> got, if we had received your Letters. If the Church do well, they will turn over the Election of Prelates there to the No<g ref="char:EOLhyphen"/>bility, and will give them Authority in that point.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
